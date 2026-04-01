@@ -5266,7 +5266,7 @@
 				type: "item"
 			}]
 			x: 19.5d
-			y: -9.375d
+			y: -6.375d
 		}
 		{
 			dependencies: [
@@ -5321,8 +5321,8 @@
 				item: { count: 1, id: "mysticalagriculture:saltpeter_seeds" }
 				type: "item"
 			}]
-			x: 15.0d
-			y: -6.875d
+			x: 14.5d
+			y: -4.375d
 		}
 		{
 			dependencies: [
@@ -5350,34 +5350,6 @@
 				type: "item"
 			}]
 			x: 20.5d
-			y: -6.375d
-		}
-		{
-			dependencies: [
-				"76071C22A73A2026"
-				"0B37355262121DD5"
-			]
-			id: "787E714014EC2C02"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "2390416E14742DCF"
-					table_id: 7270734658375550536L
-					type: "random"
-				}
-				{
-					id: "0D574AD9536A39BC"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "538D51FC8321C046"
-				item: { count: 1, id: "mysticalagriculture:copper_alloy_seeds" }
-				type: "item"
-			}]
-			x: 19.5d
 			y: -6.375d
 		}
 		{
@@ -5489,35 +5461,7 @@
 				item: { count: 1, id: "mysticalagriculture:energetic_alloy_seeds" }
 				type: "item"
 			}]
-			x: 25.0d
-			y: -10.875d
-		}
-		{
-			dependencies: [
-				"5BC4250E4C9F803C"
-				"0B37355262121DD5"
-			]
-			id: "4DF23FC932F5EB7D"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "5F69B631809453C9"
-					table_id: 1937853580808181092L
-					type: "random"
-				}
-				{
-					id: "6FBB044EF7BC88CF"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "044CDEDB12A23672"
-				item: { count: 1, id: "mysticalagriculture:fiery_ingot_seeds" }
-				type: "item"
-			}]
-			x: 24.5d
+			x: 25.5d
 			y: -8.375d
 		}
 		{
@@ -5573,35 +5517,7 @@
 				item: { count: 1, id: "mysticalagriculture:pulsating_alloy_seeds" }
 				type: "item"
 			}]
-			x: 25.5d
-			y: -10.375d
-		}
-		{
-			dependencies: [
-				"5BC4250E4C9F803C"
-				"0B37355262121DD5"
-			]
-			id: "07751E1BE48C6024"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "4F8C6C3745E7CE03"
-					table_id: 1937853580808181092L
-					type: "random"
-				}
-				{
-					id: "0F6E2C19688D6639"
-					type: "xp"
-					xp: 100
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "40111B7C13ABC481"
-				item: { count: 1, id: "mysticalagriculture:knightmetal_seeds" }
-				type: "item"
-			}]
-			x: 25.5d
+			x: 24.5d
 			y: -8.375d
 		}
 		{
